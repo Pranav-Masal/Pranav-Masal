@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Pranav Masal
+**A passionate Python Developer || Data Analyst || Kafka Admin from India*
 
+Email Me 👉 ✉️ **pranavmasal0273@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** 
+- 🌱 **I’m currently learning:** python full stack 
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration
+- 📫 **How to reach me:** pranavmasal0273@gmail.com
+- 😄 **Pronouns:** Pranav
+- ⚡ **Fun fact:** I Love coding and coding likes me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-masal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pranavmasal0273@gmail.com) 
 
